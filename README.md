@@ -9,7 +9,7 @@ Labeling
 Feature Extraction
 Classification
 
-[](https://github.com/inshirah15/Inshirah_Portfolio/tree/main/images/W.png)
+[ ](https://github.com/inshirah15/Inshirah_Portfolio/tree/main/images/W.png)
 
 [](https://github.com/inshirah15/Inshirah_Portfolio/tree/main/images/N.png)
 
