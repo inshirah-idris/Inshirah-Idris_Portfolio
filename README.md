@@ -12,7 +12,7 @@ The project was divided into four main phases:
 
 <https://github.com/inshirah15/Inshirah_Portfolio/blob/main/images/W.png>
 
-[https://github.com/inshirah15/Inshirah_Portfolio/blob/main/images/N.png]
+[./images/N.png]
 
 <img src="./images/N.png">
 
