@@ -22,6 +22,7 @@ The project was divided into four main phases:
 * Feature Extraction
 * Classification
 
+![]()
 <img src="./images/W.png">
 
 <img src="./images/N.png">
