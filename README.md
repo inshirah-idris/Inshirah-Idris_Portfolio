@@ -10,9 +10,7 @@ The project was divided into four main phases:
 * Feature Extraction
 * Classification
 
-<https://github.com/inshirah15/Inshirah_Portfolio/blob/main/images/W.png>
-
-[./images/N.png]
+<img src="./images/W.png">
 
 <img src="./images/N.png">
 
@@ -24,6 +22,6 @@ The project was divided into four main phases:
 * Feature Extraction
 * Classification
 
-[](https://github.com/inshirah15/Inshirah_Portfolio/blob/main/images/W.png)
+<img src="./images/W.png">
 
-[](https://github.com/inshirah15/Inshirah_Portfolio/blob/main/images/N.png)
+<img src="./images/N.png">
